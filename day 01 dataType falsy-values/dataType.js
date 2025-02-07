@@ -24,7 +24,7 @@ const isHuman = true;
 const isFemale = false;
 
 // BIg int
-const largeValues = 141222222222212412412412412421421;
+const largeValues = BigInt(141222222222212412412412412421421);
 
 //undefined
 var name12;
